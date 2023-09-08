@@ -21,3 +21,9 @@
     position: initial;
     margin: .5em 0;
 }
+
+.swiper-pagination-bullet-active{
+    background: var(--azul-degrade);
+ }
+
+ 
